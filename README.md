@@ -1,5 +1,5 @@
 # Trending-Songs-Spotify-USA-Canada
-We have managed to grasp the insights of spotify trending songs dataset and performed exploratory data analysis to visualize the songs which happened to be trending on the same in both Canada and USA.
+We have managed to grasp the insights of spotify trending songs dataset and performed exploratory data analysis to visualize the songs which happened to be trending on the same day both Canada and USA.
 
 The dataset for this tutorial tracks global daily streams on the music streaming service Spotify. We focus on five popular songs from 2017 and 2018:
 
